@@ -1,7 +1,8 @@
 import './assets/main.css'
-import 'bootstrap/dist/css/bootstrap.css'
-import 'bootstrap-vue/dist/bootstrap-vue.css'
-import { gsap } from "gsap";
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.bundle.min';
+
+
 import { createApp } from 'vue'
 import App from './App.vue'
 
