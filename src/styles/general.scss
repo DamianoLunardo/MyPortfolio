@@ -26,5 +26,29 @@ body
 }
 
 
+.my-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(241, 236, 236);
+}
+
+.my-container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 60px;
+    font-size: 25px;
+}
+
+.color-text {
+    color: blue;
+}
+
+
 
 @import url('https://fonts.googleapis.com/css2?family=Mitr:wght@200;300;400;500;600;700&display=swap')

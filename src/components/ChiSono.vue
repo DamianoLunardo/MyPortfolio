@@ -1,4 +1,5 @@
 <template>
+<div>
   <section class="my-container">
     <section class=" d-flex flex-wrap mt-5 costum-section">
       <div class="order-2 order-md-1 mb-3 mb-md-0 media">
@@ -23,7 +24,7 @@
       <span style="color: rgb(65, 65, 245);">
       <i class="fa-brands fa-css3-alt icons"></i>
       </span>
-      <span style="color: rgba(246, 246, 14, 0.834);">
+      <span style="color: rgba(223, 223, 56, 0.834);">
       <i class="fa-brands fa-js icons"></i>
       </span>
       <span style="color: palevioletred;">
@@ -44,6 +45,7 @@
     </div>
   </section>
   </section>
+</div>
 </template>
 
 <style scoped lang="scss">
@@ -105,7 +107,7 @@ img {
 }
 
 .icons {
-  font-size: 30px;
+  font-size: 50px;
   margin-right: 20px;
 }
 
@@ -113,12 +115,12 @@ img {
   margin-left: 20px;
 }
 
-.my-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  background-color: rgb(241, 236, 236);
+h1 {
+  font-size: 65px;
+}
+
+p {
+  font-size: 20px;
 }
 
 @media (max-width: 800px) {
@@ -137,7 +139,7 @@ img {
     }
   }
   .icons {
-    font-size: 20px;
+    font-size: 30px;
     margin-right: 10px;
   }
   .first_icon {
@@ -150,6 +152,7 @@ img {
 
   h1 {
     text-align: center;
+    margin-top: 40px;
   }
   .media {
   margin-top: 15px;
@@ -189,6 +192,7 @@ img {
 
   p, h1 {
     text-align: center;
+    margin-top: 30px;
   }
 
   .my-container {
