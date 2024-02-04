@@ -45,6 +45,14 @@ body
     font-size: 25px;
 }
 
+.my-container3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 60px;
+}
+
 .color-text {
     color: blue;
 }

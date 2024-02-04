@@ -1,9 +1,9 @@
 <template>
     <div id="contact">
-        <section>
+        <section class="my-container3">
             <h4 class="color-text">CONTACT</h4>
             <p>Feel free to reach out to me via email. 👇</p>
-            <a href="mailto:damianolunardo@hotmail.it">damianolunardo@hotmail.it</a>
+            <a href="mailto:damianolunardo@hotmail.it" class="color-text">damianolunardo@hotmail.it</a>
         </section>
     </div>
 </template>
