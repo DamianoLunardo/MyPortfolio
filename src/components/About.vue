@@ -4,7 +4,7 @@
         <div>
             <img class="computer_img" src="../img/computer.webp" alt="Damiano Lunardo">
         </div>
-        <div>
+        <div class="about_me">
             <h4 class="color-text">ABOUT ME</h4>
             <p> A dedicated Jr Full Stack Web Developer <br>
                 based in Milan, Italy.<br> My passion is to create and develop a clean UI/UX for my users.<br>
@@ -31,6 +31,12 @@ p {
   color: gray;
   font-size: 20px;
   font-weight: 200;
+}
+
+@media (max-width: 800px) {
+  .about_me {
+    text-align: center;
+  }
 }
 
   
