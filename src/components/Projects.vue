@@ -56,8 +56,7 @@
             </div>
           </div>
         </div>
-        <!-- Aggiungi gli altri progetti qui -->
-      </div>
+    </div>
     </container>
   </template>
 
@@ -133,6 +132,10 @@
         font-size: 20px;
         font-weight: 200;
     }
+
+    .grid {
+            grid-template-columns: 1fr;
+        }
 }
 </style>
 
