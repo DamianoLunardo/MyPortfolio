@@ -44,6 +44,12 @@
 
 .nav-link {
   color:black;
+
+  &:hover {
+    color: blue;
+    text-decoration: underline;
+    scale: 1.1;
+  }
 }
 
 </style>

@@ -72,7 +72,7 @@
 }
 
 .personal {
-    color: red;
+    color: blue;
     font-size: 25px;
     font-weight: 200;
     position: absolute;
@@ -108,7 +108,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgb(36, 36, 190); 
+    background-color: white; 
     display: flex;
     justify-content: center;
     align-items: center;
