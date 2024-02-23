@@ -4,6 +4,15 @@
       <div class="grid">
         <div class="project">
           <div class="image-container">
+            <img class="card-img-top" src="../img/tube.png" alt="js-campominato-dom">
+            <div class="overlay prova">
+              <a class="personal" href="https://github.com/DamianoLunardo/youtube-clone" target="_blank"><i class="fa-brands fa-github icons"></i></a>
+              <a class="personal" href="https://youdami.netlify.app/" target="_blank">Demo</a>
+            </div>
+          </div>
+        </div>
+       <div class="project">
+          <div class="image-container">
             <img class="card-img-top" src="../img/campominato.png" alt="js-campominato-dom">
             <div class="overlay prova">
               <a class="personal" href="https://github.com/DamianoLunardo/js-campominato-dom" target="_blank"><i class="fa-brands fa-github icons"></i></a>
