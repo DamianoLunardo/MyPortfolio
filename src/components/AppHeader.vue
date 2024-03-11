@@ -47,8 +47,6 @@
 
   &:hover {
     color: blue;
-    text-decoration: underline;
-    scale: 1.1;
   }
 }
 
